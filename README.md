@@ -124,7 +124,7 @@
 ## 📄 Resume
 
 📥 **View / Download My Resume:**  
-👉 [NihalB_Resume.pdf](https://github.com/nihal-b/nihal-b/blob/main/NihalB_Resume.pdf)
+👉 [NihalB_Resume.pdf](https://github.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf)
 
 🔗 **Direct Download Link:**  
 👉 https://raw.githubusercontent.com/nihal-b/nihal-b/main/NihalB_Resume.pdf
