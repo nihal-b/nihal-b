@@ -23,13 +23,14 @@
 
 <div align="center">
 
-[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=soloflow&theme=tokyonight)](https://github.com/nihal-b/soloflow)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=portfolio&theme=tokyonight)](https://github.com/nihal-b/portfolio)
-[![Google Calendar Clone](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=google-calendar-clone&theme=tokyonight)](https://github.com/nihal-b/google-calendar-clone)
+[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker-&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
+
+[![Google Calendar](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight)](https://github.com/nihal-b/Google-Calender)
 
 </div>
 
-> 💡 If your repo names are different, rename them above.
 
 ---
 
@@ -127,7 +128,7 @@
 👉 [NihalB_Resume.pdf](https://github.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf)
 
 🔗 **Direct Download Link:**  
-👉 https://raw.githubusercontent.com/nihal-b/nihal-b/main/NihalB_Resume.pdf
+👉 https://raw.githubusercontent.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf
 
 ---
 
