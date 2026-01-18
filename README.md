@@ -128,7 +128,7 @@
 👉 [NihalB_Resume.pdf](https://github.com/nihal-b/readme/main/NihalB_Resume.pdf)
 
 🔗 **Direct Download Link:**  
-👉 https://raw.githubusercontent.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf
+👉 https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf
 
 ---
 
