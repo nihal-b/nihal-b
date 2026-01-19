@@ -23,13 +23,27 @@
 
 <div align="center">
 
-[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
+<!-- SoloFlow (Private Repo Fallback Card) -->
+<a href="https://github.com/nihal-b">
+  <img src="https://img.shields.io/badge/SoloFlow%20–%20Personal%20Work%20Tracker-Next.js%20%7C%20Tailwind%20%7C%20Firebase--Ready-blueviolet?style=for-the-badge" />
+</a>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
+<br/><br/>
 
-[![Google Calendar](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight)](https://github.com/nihal-b/Google-Calender)
+<!-- Portfolio (Private Repo Fallback Card) -->
+<a href="https://nihalb.dev">
+  <img src="https://img.shields.io/badge/My%20Portfolio-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-black?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<!-- Google Calendar (Public Repo Live Card) -->
+<a href="https://github.com/nihal-b/Google-Calender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
+
 
 
 ---
