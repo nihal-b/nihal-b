@@ -24,34 +24,33 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nihal-b">
-        <img 
-          src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" 
-          width="420"
-          style="border-radius:16px; box-shadow: 0 0 0 0 transparent;"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nihalb.dev">
-        <img 
-          src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png" 
-          width="420"
-          style="border-radius:16px; box-shadow: 0 0 0 0 transparent;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- First Row -->
+<div style="display:flex; justify-content:center; gap:32px; flex-wrap:wrap;">
+
+  <a href="https://github.com/nihal-b">
+    <img
+      src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png"
+      width="420"
+      style="border:none; outline:none;"
+    />
+  </a>
+
+  <a href="https://nihalb.dev">
+    <img
+      src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png"
+      width="420"
+      style="border:none; outline:none;"
+    />
+  </a>
+
+</div>
 
 <br/>
 
+<!-- Second Row -->
 <a href="https://github.com/nihal-b/Google-Calender">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true"
     width="420"
   />
 </a>
