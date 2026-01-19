@@ -157,7 +157,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihal-b&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nihal-b&theme=tokyonight&no-frame=true&column=6" />
 </div>
 
 ---
