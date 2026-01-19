@@ -23,27 +23,26 @@
 
 <div align="center">
 
-<!-- SoloFlow (Private Repo Fallback Card) -->
+<!-- SoloFlow Card (Private Repo) -->
 <a href="https://github.com/nihal-b">
-  <img src="https://img.shields.io/badge/SoloFlow%20–%20Personal%20Work%20Tracker-Next.js%20%7C%20Tailwind%20%7C%20Firebase--Ready-blueviolet?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/soloflow-card.png" width="420" />
 </a>
 
 <br/><br/>
 
-<!-- Portfolio (Private Repo Fallback Card) -->
+<!-- Portfolio Card (Private Repo) -->
 <a href="https://nihalb.dev">
-  <img src="https://img.shields.io/badge/My%20Portfolio-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-black?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/portfolio-card.png" width="420" />
 </a>
 
 <br/><br/>
 
-<!-- Google Calendar (Public Repo Live Card) -->
+<!-- Google Calendar Card (Public Repo - Live GitHub Card) -->
 <a href="https://github.com/nihal-b/Google-Calender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" width="420" />
 </a>
 
 </div>
-
 
 
 ---
