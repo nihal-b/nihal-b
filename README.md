@@ -23,17 +23,15 @@
 
 <div align="center">
 
-<a href="https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight" />
-</a>
+[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
 
-<a href="https://github.com/nihal-b/my-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight" />
-</a>
+<br/>
 
-<a href="https://github.com/nihal-b/Google-Calender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight" />
-</a>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
+
+<br/>
+
+[![Google Calendar](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight)](https://github.com/nihal-b/Google-Calender)
 
 </div>
 
