@@ -150,8 +150,6 @@ achievements:
 
 **Got an interesting project? Want to collaborate? Just want to say hi?**
 
-**I'm always open to interesting conversations and new opportunities!**
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-bilal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nihalb.dev)
