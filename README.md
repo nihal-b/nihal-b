@@ -25,6 +25,8 @@
 
 ## 📂 ~/workspace/current_mission.sh
 
+<div align="center">
+
 ```bash
 #!/bin/bash
 
@@ -40,6 +42,7 @@ echo ""
 echo "💭 Philosophy: Build things people love"
 echo "========================================="
 ```
+</div>
 
 ---
 
