@@ -108,20 +108,6 @@ echo "========================================="
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 💼 Experience Highlights
 
 ```yaml
@@ -152,46 +138,6 @@ achievements:
   - "Mastering system design through practice"
   - "Contributing to open source"
 ```
-
----
-
-## 🎯 Philosophy
-
-<div align="center">
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Nihal B";
-    this.role = "Full Stack Engineer";
-    this.location = "Kerala, India";
-  }
-  
-  get philosophy() {
-    return {
-      code: "Write it like you'll maintain it forever",
-      design: "Simple is better than complex",
-      build: "Ship fast, iterate faster",
-      learn: "Never stop improving"
-    };
-  }
-  
-  get currentFocus() {
-    return [
-      "Building real-world products",
-      "Mastering clean architecture",
-      "Contributing to open source",
-      "Helping others learn to code"
-    ];
-  }
-}
-
-const nihal = new Developer();
-console.log(nihal.philosophy);
-// Let's build something amazing together! 🚀
-```
-
-</div>
 
 ---
 
@@ -235,7 +181,5 @@ console.log(nihal.philosophy);
 <br>
 
 **< Designed & Crafted by Nihal B />**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=100&section=footer"/>
 
 </div>
