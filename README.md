@@ -9,13 +9,13 @@
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Engineer+%7C+Product+Builder;Turning+Coffee+Into+Code+Since+Forever;Building+Digital+Experiences+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Product+Builder;Turning+Coffee+Into+Code+Since+Forever;Building+Digital+Experiences+That+Matter" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_nihalb.dev-000000?style=for-the-badge&logoColor=white)](https://nihalb.dev)
+```[![Portfolio](https://img.shields.io/badge/🌐_nihalb.dev-000000?style=for-the-badge&logoColor=white)](https://nihalb.dev)```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-bilal/)
 [![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf)
 
