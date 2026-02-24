@@ -15,7 +15,7 @@
 
 <div align="center">
 
-```[![Portfolio](https://img.shields.io/badge/🌐_nihalb.dev-000000?style=for-the-badge&logoColor=white)](https://nihalb.dev)```
+[![Portfolio](https://img.shields.io/badge/🌐_nihalb.dev-000000?style=for-the-badge&logoColor=white)](https://nihalb.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-bilal/)
 [![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf)
 
