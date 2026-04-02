@@ -9,7 +9,7 @@
   <ellipse cx="700" cy="60" rx="180" ry="120" fill="#58a6ff" opacity="0.04"/>
   <ellipse cx="120" cy="230" rx="140" ry="100" fill="#3fb950" opacity="0.03"/>
   <rect x="48" y="52" width="3" height="52" fill="#58a6ff" rx="2"/>
-  <text x="64" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#e6edf3" letter-spacing="-2">Nihal B</text>
+  <text x="64" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#e6edf3" letter-spacing="-4">Nihal B</text>
   <text x="202" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#58a6ff">.</text>
   <text x="64" y="118" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" letter-spacing="0.06em">Full Stack Engineer</text>
   <text x="222" y="118" font-family="'Courier New', monospace" font-size="12" fill="#484f58"> · Kerala, India</text>
